@@ -1,4 +1,4 @@
-C:\Users\herncarl\temp\percipio\compay_web>ssh-keygen -t rsa -b 4096 -C "carlos-angel.hernandez-alaniz@hpe.com"
+﻿C:\Users\herncarl\temp\percipio\compay_web>ssh-keygen -t rsa -b 4096 -C "carlos-angel.hernandez-alaniz@hpe.com"
 Generating public/private rsa key pair.
 Enter file in which to save the key (C:\Users\herncarl/.ssh/id_rsa): c2k5
 Enter passphrase (empty for no passphrase):
@@ -1142,4 +1142,3 @@ To https://github.com/damedetufruta/web-page-repo.git
  - [deleted]         v0.1
 
 C:\Users\herncarl\temp\percipio\compay_web>
-
